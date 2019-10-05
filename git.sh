@@ -11,9 +11,8 @@ touch superlonely$i
 echo 'My $i PR for hacktoberfest' > superlonely$i
 git add .
 git commit -m 'added PR $i'
-git push origin bhavesh
+git push origin suresh
 sleep 5
-echo CSnptel
 
 i=$(($i+1))
 done
