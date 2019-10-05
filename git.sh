@@ -15,5 +15,5 @@ git push origin bhavesh
 sleep 5
 echo CSnptel
 
-i=$[$i+1]
+i=$(($i+1))
 done
