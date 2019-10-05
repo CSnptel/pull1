@@ -12,7 +12,7 @@ echo 'My $i PR for hacktoberfest' > superlonely$i
 git add .
 git commit -m 'added PR $i'
 git push origin bhavesh
-sleep 0.1
+sleep 5
 echo CSnptel
 
 i=$[$i+1]
